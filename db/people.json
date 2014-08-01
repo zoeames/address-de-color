@@ -1,0 +1,12 @@
+[
+  {"name":"Bob Smith", "email":"bob@aol.com", "phone":"615-555-1212", "color":"pink", "website":"http://cnn.com"}
+  {"name":"John Snow", "email":"snow@msn.com", "phone":"615-444-4444", "color":"green", "website":"http://yahoo.com"}
+  {"name":"The Queen", "email":"queenie@gmail.com", "phone":"123-456-7890", "color":"red", "website":"http://google.com"}
+  {"name":"Bernard Bear", "email":"bear@harvard.edu", "phone":"1-800-696-9696", "color":"brown", "website":"http://discovery.com"}
+  {"name":"MDNA", "email":"num1@comcast.com", "phone":"615-555-5555", "color":"blue", "website":"http://cma.com"}
+  {"name":"Susan Jones", "email":"suzzy@gmail.com", "phone":"615-444-1255", "color":"yellow", "website":"http://comcast.com"}
+  {"name":"Alex Johnson", "email":"AJ@gmail.com", "phone":"615-555-55345", "color":"red", "website":"http://abc.com"}
+  {"name":"Wanda Jameson", "email":"wanda@yahoo.com", "phone":"615-555-5425", "color":"orange", "website":"http://cbs.com"}
+  {"name":"Jack Daniels", "email":"jack1@astound.net", "phone":"615-555-5115", "color":"white", "website":"http://twitter.com"}
+  {"name":"Rick Steves", "email":"rst@gmail.com", "phone":"615-555-5000", "color":"pink", "website":"http://xkcd.com"}
+]

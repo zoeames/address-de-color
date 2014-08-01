@@ -1,0 +1,27 @@
+.person{
+  position: relative;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 10px;
+}
+
+#name{
+  font-size: 20pt;
+  text-align: center;
+  background-color: white;
+}
+
+#bar{
+  position: absolute;
+  height: 0px;
+  width: 100%;
+  border-top: 1px solid black;
+}
+
+
+#info{
+  font-size: 13pt;
+}
+

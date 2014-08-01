@@ -1,0 +1,25 @@
+doctype html
+html
+  head
+    meta(chatset='utf-8')
+    title People: Address de Color
+    link(rel="stylesheet" href="/css/style.css")
+  body
+    h1 Address de Color
+    nav
+      ul
+        li: a(href='/') Home
+        li: a(href='/about') About
+        li: a(href='/faq') Faq
+        li: a(href='/contact') Contact
+        li: a(href='/people') People
+    h2 People Page!!
+
+    each person in people
+      .person(style='background-color:#{person.color};')
+         #name: a(href='#{person.website}') #{person.name}
+         #bar
+         #info
+           ul
+             li= person.phone
+             li: a(href='mailto:#{person.email}') #{person.email}
